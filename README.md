@@ -36,6 +36,9 @@ The above gives the half-fiber with numerical equivalence class $\frac{1}{2}(1\c
 To use the code, just open in SageMath a new project in the same folder as the file Cnd_Data.txt. Copy-paste the content of CheckData.py in the project, and run it.
 
 [BS22] Brandhorst, Simon and Shimada, Ichiro; Automorphism groups of certain Enriques surfaces, Found. Comput. Math. 22, 2022.
+
 [MRS22a] Riccardo Moschetti, Franco Rota, and Luca Schaffler. A computational view on the non-degeneracy invariant for Enriques surfaces. Experimental Mathematics. Published online: 29 August 2022.
+
 [MRS22b] Riccardo Moschetti, Franco Rota, and Luca Schaffler. SageMath code CndFinder. Available at: https://github.com/rmoschetti/CNDFinder
+
 [SB20] Shimada, Ichiro and Brandhorst, Simon; Automorphism groups of certain Enriques surfaces - computational data, https://zenodo.org/record/4327019
